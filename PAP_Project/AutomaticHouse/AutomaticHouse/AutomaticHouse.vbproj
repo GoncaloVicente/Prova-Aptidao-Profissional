@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E54D18D1-1AC5-421C-9FF7-E5441430CAF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AutomaticHouse.My.MyApplication</StartupObject>
+    <RootNamespace>AutomaticHouse</RootNamespace>
+    <AssemblyName>AutomaticHouse</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AutomaticHouse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AutomaticHouse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmagenda.Designer.vb">
+      <DependentUpon>frmagenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmagenda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcozinha.Designer.vb">
+      <DependentUpon>frmcozinha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcozinha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmescritorio.Designer.vb">
+      <DependentUpon>frmescritorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmescritorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhall.Designer.vb">
+      <DependentUpon>frmhall.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprincipal.Designer.vb">
+      <DependentUpon>frmprincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmprincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmquarto.Designer.vb">
+      <DependentUpon>frmquarto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmquarto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmquarto1.Designer.vb">
+      <DependentUpon>frmquarto1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmquarto1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmagenda.resx">
+      <DependentUpon>frmagenda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcozinha.resx">
+      <DependentUpon>frmcozinha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmescritorio.resx">
+      <DependentUpon>frmescritorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhall.resx">
+      <DependentUpon>frmhall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmprincipal.resx">
+      <DependentUpon>frmprincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmquarto.resx">
+      <DependentUpon>frmquarto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmquarto1.resx">
+      <DependentUpon>frmquarto1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\418ace1152afbd33ea95466633f817f6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bemvindo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bemvindo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bemvindo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VICENTE AUTOMATIC HOUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta-para-baixo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta-para-baixo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta-para-baixo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lampada acesa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\janelaaberta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\janelaaberta1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\janelaaberta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\janelafechada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lampada apagada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escritorio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chaveabrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem Títulso-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem Títulso-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacoes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacoes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ifuncinamentof.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacoes2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iimportantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ifuncinamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escritorio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graphics-agenda-607915.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graphics-agenda-6079151.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agenda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1211766742.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_Icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6980_256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner-772x250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\as.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cozinhas-modernas-planejadas-02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cozinha %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lampada_ligada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lampada_desligada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escritorio1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto .jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quarto  2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

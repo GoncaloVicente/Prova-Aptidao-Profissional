@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutomaticHouse
+</name>
+</assembly>
+<members>
+<member name="T:AutomaticHouse.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._1211766742">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._123">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._1231">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._1232">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._418ace1152afbd33ea95466633f817f6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._6980_256x256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources._as">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Agenda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.agenda_hi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.aw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.banner_772x250">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Bemvindo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Bemvindo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Bemvindo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.camara">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.camara1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.chaveabrir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Cozinha__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.cozinhas_modernas_planejadas_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Delete_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Delete_Icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Escritorio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Escritorio1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Escritorio2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.fechar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.fechar1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.graphics_agenda_607915">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.graphics_agenda_6079151">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Hall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.ifuncinamento">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.ifuncinamentof">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.iimportantes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.informacoes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.informacoes1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.informacoes2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.janelaaberta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.janelaaberta1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.janelaaberta2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.janelafechada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.lampada_acesa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.lampada_apagada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.lampada_desligada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.lampada_ligada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Login1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto__2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Quarto_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Sem_Títulso_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.Sem_Títulso_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.seta_para_baixo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.seta_para_baixo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.seta_para_baixo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutomaticHouse.My.Resources.Resources.VICENTE_AUTOMATIC_HOUSE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,64 @@
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.exe
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.pdb
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.xml
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmhall.resources
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.Resources.resources
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbproj.GenerateResource.Cache
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.exe
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.xml
+c:\users\gonçalo vicente\documents\visual studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.pdb
+C:\Users\Gonçalo Vicente\Documents\Visual Studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmlogin.resources
+C:\Users\Gonçalo Vicente\Documents\Visual Studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmprincipal.resources
+C:\Users\Gonçalo Vicente\Documents\Visual Studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto.resources
+C:\Users\Gonçalo Vicente\Documents\Visual Studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmescritorio.resources
+C:\Users\Gonçalo Vicente\Documents\Visual Studio 2010\Projects\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto1.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.exe
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.xml
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.pdb
+E:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.exe
+E:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.pdb
+E:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.xml
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmcozinha.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmescritorio.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmhall.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmlogin.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmprincipal.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto1.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.Resources.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbproj.GenerateResource.Cache
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.exe
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.xml
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.pdb
+F:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.exe
+F:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.pdb
+F:\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.xml
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmcozinha.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmescritorio.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmhall.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmlogin.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmprincipal.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto1.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.Resources.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbproj.GenerateResource.Cache
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmagenda.resources
+F:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmagenda.resources
+E:\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbprojResolveAssemblyReference.cache
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.exe
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.xml
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.pdb
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.exe
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.pdb
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\bin\Debug\AutomaticHouse.xml
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbprojResolveAssemblyReference.cache
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmagenda.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmcozinha.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmescritorio.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmhall.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmlogin.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmprincipal.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.frmquarto1.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.Resources.resources
+C:\Users\Gonçalo Vicente\Desktop\AutomaticHouse\AutomaticHouse\obj\x86\Debug\AutomaticHouse.vbproj.GenerateResource.Cache
